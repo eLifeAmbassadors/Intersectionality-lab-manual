@@ -28,5 +28,5 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ## Acknowledgments
 
-We would like to thank eLife Community staff for their support, and the eLife Community Ambassadors who have translated the guidelines: Humberto Debat (Spanish) and Melanie Krause (German).
+We would like to thank eLife Community staff for their support, and the eLife Community Ambassadors who have translated the guidelines: Humberto Debat (Spanish) and Melanie Krause (German). Images (except for Intersectionality logo) created with Biorender.com.
 
