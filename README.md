@@ -11,7 +11,6 @@ We provide a template for a lab expectations document, or lab manual, to assist 
 
 Please feel free to fork, use, share, and modify this lab manual template!
 We would like to get feedback on this lab manual to improve our document. Please help us by taking this short (anonymous) [survey](https://forms.gle/tBVr7Bj5EcdJ83X680).
-.
 
 ## Authors
 
