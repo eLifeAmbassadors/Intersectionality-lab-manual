@@ -4,11 +4,12 @@ Research groups consist of people from many different backgrounds and therefore 
 
 ## Getting Started
 
-We provide a template for a lab expectations document, or lab manual, to assist with inclusive practices in academic science labs.
+We provide a template for a lab expectations document, or lab manual, to assist with inclusive practices in academic science labs. We provide text files on our osf project [page](https://osf.io/2xn6z/) and we also provide the lab manual in wiki form within this osf wiki for fork, modification, and reuse.
+
 
 ## Contributing
 
-Please feel free to use, share, and modify this lab manual template! We provide text files on our osf project [page](https://osf.io/2xn6z/) and we also provide the lab manual in wiki form within this osf wiki for fork, modification, and reuse. 
+Please feel free to fork, use, share, and modify this lab manual template!
 We would like to get feedback on this lab manual to improve our document. Please help us by taking this short (anonymous) [survey](https://forms.gle/tBVr7Bj5EcdJ83X680).
 .
 
